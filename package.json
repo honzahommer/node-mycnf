@@ -1,0 +1,57 @@
+{
+  "name": "mycnf",
+  "version": "0.0.0",
+  "description": "Reads MySQL options using my_print_defaults command.",
+  "homepage": "https://github.com/honzahommer/node-mycnf",
+  "main": "lib/",
+  "keywords": [
+    "config",
+    "mariadb",
+    "my_print_defaults",
+    "mysql"
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/honzahommer/node-mycnf.git"
+  },
+  "author": "Honza Hommer <honza@hommer.cz>",
+  "bugs": {
+    "url": "https://github.com/honzahommer/node-mycnf/issues"
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "scripts": {
+    "publish": "git push origin --tags && npm run changelog && git push origin",
+    "changelog": "github_changelog_generator && git add CHANGELOG.md && git commit -am \"Updating changelog\"",
+    "release:patch": "npm version patch && npm publish",
+    "release:minor": "npm version minor && npm publish",
+    "release:major": "npm version major && npm publish",
+    "lint": "semistandard --fix",
+    "mocha": "mocha --opts mocha.opts --timeout 5000",
+    "test": "npm run lint && npm run coverage",
+    "coverage": "istanbul cover node_modules/mocha/bin/_mocha -- --opts mocha.opts"
+  },
+  "husky": {
+    "hooks": {
+      "pre-push": "npm test"
+    }
+  },
+  "semistandard": {
+    "env": [
+      "mocha"
+    ]
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {
+    "husky": "^1.3.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0",
+    "semistandard": "^13.0.1",
+    "should": "^13.2.3"
+  }
+}
