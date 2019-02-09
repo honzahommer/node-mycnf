@@ -1,7 +1,7 @@
 # mycnf
 
 [![npm version](https://img.shields.io/npm/v/mycnf.svg)](https://npmjs.com/mycnf)
-[![Build Status](https://img.shields.io/travis/honzahommer/mycnf.svg?branch=master)](https://travis-ci.org/honzahommer/mycnf)
+[![Build Status](https://img.shields.io/travis/honzahommer/node-mycnf.svg?branch=master)](https://travis-ci.org/honzahommer/node-mycnf)
 [![npm downloads](https://img.shields.io/npm/dm/mycnf.svg)](https://npmjs.com/mycnf)
 [![License](https://img.shields.io/npm/l/mycnf.svg)](https://github.com/honzahommer/node-mycnf/blob/master/LICENSE)
 
