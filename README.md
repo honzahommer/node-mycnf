@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/mycnf.svg)](https://npmjs.com/mycnf)
 [![Build Status](https://img.shields.io/travis/honzahommer/node-mycnf.svg?branch=master)](https://travis-ci.org/honzahommer/node-mycnf)
 [![npm downloads](https://img.shields.io/npm/dm/mycnf.svg)](https://npmjs.com/mycnf)
-[![License](https://img.shields.io/npm/l/mycnf.svg)](https://github.com/honzahommer/node-mycnf/blob/master/LICENSE)
+[![License](https://img.shields.io/npm/l/mycnf.svg)](https://github.com/honzahommer/node-mycnf/blob/master/LICENSE) [![Greenkeeper badge](https://badges.greenkeeper.io/honzahommer/node-mycnf.svg)](https://greenkeeper.io/)
 
 > Reads MySQL options using [my_print_defaults](https://dev.mysql.com/doc/refman/8.0/en/my-print-defaults.html) command.
 
