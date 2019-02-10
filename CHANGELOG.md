@@ -1,5 +1,12 @@
 # Change Log
 
+## [v1.0.0](https://github.com/honzahommer/node-mycnf/tree/v1.0.0) (2019-02-10)
+[Full Changelog](https://github.com/honzahommer/node-mycnf/compare/v0.0.2...v1.0.0)
+
+**Merged pull requests:**
+
+- Add Greenkeeper badge 🌴 [\#1](https://github.com/honzahommer/node-mycnf/pull/1) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+
 ## [v0.0.2](https://github.com/honzahommer/node-mycnf/tree/v0.0.2) (2019-02-10)
 [Full Changelog](https://github.com/honzahommer/node-mycnf/compare/v0.0.1...v0.0.2)
 
