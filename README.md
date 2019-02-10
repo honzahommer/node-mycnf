@@ -26,3 +26,9 @@ const config = mycnf();
 * `cmnd`: Path to 'my_print_defaults' command. If no `cmnd` is provided, then 'my_print_defaults' command from $PATH is called.
 * `file`: Path of config file to read, defaults to reflecting MySQL config (usually ~/.my.cnf).
 * `group`: Name of config file group to parse, default to 'client'.
+
+## Environment Variables
+
+* `MYCNF_CMND`
+* `MYCNF_FILE`
+* `MYCNF_GROUP`
