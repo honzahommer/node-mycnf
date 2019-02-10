@@ -1,6 +1,6 @@
 {
   "name": "mycnf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reads MySQL options using my_print_defaults command.",
   "homepage": "https://github.com/honzahommer/node-mycnf",
   "main": "lib/",
