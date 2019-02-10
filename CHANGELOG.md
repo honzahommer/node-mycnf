@@ -1,5 +1,8 @@
 # Change Log
 
+## [v0.0.2](https://github.com/honzahommer/node-mycnf/tree/v0.0.2) (2019-02-10)
+[Full Changelog](https://github.com/honzahommer/node-mycnf/compare/v0.0.1...v0.0.2)
+
 ## [v0.0.1](https://github.com/honzahommer/node-mycnf/tree/v0.0.1) (2019-02-09)
 
 
