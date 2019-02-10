@@ -20,7 +20,7 @@
     "url": "https://github.com/honzahommer/node-mycnf/issues"
   },
   "engines": {
-    "node": ">= 6"
+    "node": ">= 10"
   },
   "scripts": {
     "publish": "git push origin --tags && npm run changelog && git push origin",
