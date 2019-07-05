@@ -1,5 +1,14 @@
 # Change Log
 
+## [v1.0.4](https://github.com/honzahommer/node-mycnf/tree/v1.0.4) (2019-07-05)
+[Full Changelog](https://github.com/honzahommer/node-mycnf/compare/v1.0.3...v1.0.4)
+
+**Merged pull requests:**
+
+- Update husky to the latest version 🚀 [\#4](https://github.com/honzahommer/node-mycnf/pull/4) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+- Update husky to the latest version 🚀 [\#3](https://github.com/honzahommer/node-mycnf/pull/3) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+- Update mocha to the latest version 🚀 [\#2](https://github.com/honzahommer/node-mycnf/pull/2) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+
 ## [v1.0.3](https://github.com/honzahommer/node-mycnf/tree/v1.0.3) (2019-02-10)
 [Full Changelog](https://github.com/honzahommer/node-mycnf/compare/v1.0.2...v1.0.3)
 
