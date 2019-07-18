@@ -1,5 +1,13 @@
 # Change Log
 
+## [v1.0.5](https://github.com/honzahommer/node-mycnf/tree/v1.0.5) (2019-07-18)
+[Full Changelog](https://github.com/honzahommer/node-mycnf/compare/v1.0.4...v1.0.5)
+
+**Merged pull requests:**
+
+- Bump lodash from 4.17.11 to 4.17.14 [\#6](https://github.com/honzahommer/node-mycnf/pull/6) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump handlebars from 4.1.0 to 4.1.2 [\#5](https://github.com/honzahommer/node-mycnf/pull/5) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.0.4](https://github.com/honzahommer/node-mycnf/tree/v1.0.4) (2019-07-05)
 [Full Changelog](https://github.com/honzahommer/node-mycnf/compare/v1.0.3...v1.0.4)
 
